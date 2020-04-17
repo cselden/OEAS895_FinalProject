@@ -15,3 +15,5 @@ This repo contains all of my code for my OEAS895 Ocean Data final project, in wh
 6) OEAS895_ProjectPart3_B_RandomForestModel_SatPred_NFR.ipynb - RF model is built from measured N2 fixation rates and hydrographic parameters measured in situ; the model is used to predict rates from CTD data binned in script 3
 
 7) OEAS895_ProjectPart3_C_DataAnalysis.ipynb - predicted and measured rates are visualized; areal N2 fixation rates are calculated based on both measured and predicted (from CTD data) values 
+
+All processed data (.csv) are accessed by these scripts from "..\Calculations\".
